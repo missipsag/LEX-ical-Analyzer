@@ -1,0 +1,20 @@
+
+{
+    Bonjour ceci est un commentaire test.
+    nous avous réaliser un analyseur lexicale grace à l'outils lex
+    \\\ () [] 
+    read if write repeat until 5566 i fichier 
+    ;;; 
+
+ }
+write (); 
+read(a);
+ if (a < 55 ) then 
+    repeat 
+        a := a +1 ;
+    until (a < LIMIT)
+else 
+    repeat 
+        a := a - B;
+    until( a = 0 )
+end
