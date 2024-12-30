@@ -30,7 +30,7 @@ Here are the tokens supported by the lexical analyzer, along with their models a
 | `AFFECT`   | `:=`                            | -                      |
 
 ### Notes  
-- The regular expressions `letter` and `digit` correspond to `[A-Za-z]` and `[0-9]`, respectively.  
+- The regular expressions `L` and `C` correspond to `[A-Za-z]` and `[0-9]`, respectively.  
 
 ## Features  
 - **Lexical Analysis**: Identifies tokens in a textual input.  
